@@ -18,15 +18,15 @@ to classify *E. coli* levels in bathing water samples. It is designed to address
 Report Download
 --------
 
-Please download the Open E.Coli Model Report [here](https://github.com/Cognizant-RDMAI/BB1B-Escherichia-coli-Model/blob/main/Open%20E.Coli%20Model%20Report.pdf).
+Please download the Open E.Coli Model Report [here](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models/tree/main/Supporting-documents).
 
 ### Benchmark Download:
 
-River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here]().
+River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models/tree/main/Supporting-documents).
 
 ### Whitepaper Download:
 
-Please download the whitepaper [here]().
+Please download the whitepaper [here](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models/tree/main/Supporting-documents).
 
 
 Motivation
