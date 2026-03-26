@@ -20,6 +20,15 @@ Report Download
 
 Please download the Open E.Coli Model Report [here](https://github.com/Cognizant-RDMAI/BB1B-Escherichia-coli-Model/blob/main/Open%20E.Coli%20Model%20Report.pdf).
 
+### Benchmark Download:
+
+River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here]().
+
+### Whitepaper Download:
+
+Please download the whitepaper [here]().
+
+
 Motivation
 -------------------------------
 
